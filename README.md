@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Saurabh 👋
 
-I'm a Software Developer (SDE) with 3 years of experience in building web and mobile applications. I enjoy tinkering with computers, learning new technologies, and building exciting projects.
+I'm a Software Developer (SDE) with 3 years of experience working with startups, building web and mobile applications. I enjoy tinkering with computers, learning new technologies, and building exciting projects.
 
 ## 🚀 Skills & Technologies
 
