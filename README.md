@@ -21,8 +21,8 @@ I'm a Software Developer (SDE) with 3 years of experience working with startups,
 
 ## 🚀 Skills & Technologies
 
-- **Languages:** JavaScript, TypeScript, Python, Java, PHP, NodeJS
-- **Frameworks/Libraries:** ReactJS, NextJS, AstroJS, ExpressJS, Django, SpringBoot,
+- **Languages:** JavaScript, TypeScript, Python, Java, PHP, 
+- **Frameworks/Libraries:** ReactJS, NextJS, AstroJS, ExpressJS, Django, SpringBoot, NodeJS
 - **Databases:** PostgreSQL, Mongodb, Redis, Relational DBMS, SQL/NoSQL
 - **Cloud:** AWS, Google Cloud, CI/CD, Devops tools, Kubernetes,
 - **Development:** Web & Mobile Apps
